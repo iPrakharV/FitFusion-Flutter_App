@@ -1,10 +1,10 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_speed_dial/flutter_speed_dial.dart';
-import 'package:gym_app/BottomNavigation.dart';
-import 'package:gym_app/HeadingTitle.dart';
-import 'package:gym_app/WorkoutCard.dart';
-import 'package:iconly/iconly.dart';
+import 'flutter_speed_dial.dart';
+import 'BottomNavigation.dart';
+import 'HeadingTitle.dart';
+import 'WorkoutCard.dart';
+import 'iconly.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
