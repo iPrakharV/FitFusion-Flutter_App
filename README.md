@@ -13,9 +13,9 @@ flutter run
 
 ## Screenshots
 
-![Screen Shot 1]()
+![Screen Shot 1](https://github.com/iPrakharV/FitFusion-Flutter_App/blob/main/assets/development%20screenshots/1.jpeg)
 
-![Screen Shot]()
+![Screen Shot](https://github.com/iPrakharV/FitFusion-Flutter_App/blob/main/assets/development%20screenshots/2.jpeg)
 
 ## Pull Requests
 
